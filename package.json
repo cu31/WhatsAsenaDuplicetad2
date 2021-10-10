@@ -32,6 +32,6 @@
   },
   "homepage": "",
   "dependencies": {
-    "whatsasena-npm": "^0.0.2 Beta"
+    "whatsasena-npm": "^1.3.0"
   }
 }
