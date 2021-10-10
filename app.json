@@ -1,10 +1,10 @@
 {
-    "name": "WhatsAsenaDuplicated",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
+    "name": "DARKS V2 CODED BY:ABDULLAH",
+    "description": "Darks bot",
+    "logo": "https://github.com/cu31/media-gif/blob/main/29c97db6b7086963c65508b8be80cbe5.png?raw=true",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "asena", "ai-bot", "AsenaDev", "wabot", "wabot asena", "wp bot"],
-    "repository": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated",
-    "website":   "https://t.me/phaticusthiccy",
+    "repository": "https://github.com/cu31/WhatsAsenaDuplicetad2",
+    "website":   "",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
